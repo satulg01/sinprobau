@@ -1,0 +1,79 @@
+footer {
+    background-color: #137F18;
+}
+
+nav ul li a {
+    text-decoration: none;
+    list-style: none;
+}
+
+.first-ul {
+    padding-top: 30px;
+}
+
+.first-ul li a {
+    font-weight: 500;
+    font-size: 18px;
+    color: #fff;
+    list-style: none;
+}
+
+.first-ul, li {
+    list-style: none;
+}
+
+.first-ul li {
+    padding-top: 10px;
+    font-weight: 500;
+    font-size: 18px;
+    color: #fff;
+}
+
+.one-li {
+    font-weight: 200!important;
+}
+
+.container-redes {
+    display: flex;
+    padding-bottom: 60px;
+}
+
+.container-redes li {
+    margin-right: 29px;
+}
+
+.creditos {
+    color: #fff;
+    font-size: 12px;
+    font-weight: 200;
+    line-height: 20px;
+    margin-top: 10px;
+}
+
+.liOffice {
+    line-height: 28px;
+}
+
+.logo-footer {
+    width: 80px;
+}
+
+.first-ul li {
+    font-weight: 500;
+}
+
+.container-credits {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 33px;
+}
+
+@media (min-width: 1040px) {
+    .navFooter {
+        display: flex;
+        justify-content: space-around;
+    }
+}
