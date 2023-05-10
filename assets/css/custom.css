@@ -2,10 +2,6 @@
     --bs-success-rgb: 19, 127, 24;
 }
 
-.no-wrap {
-    flex-wrap: nowrap;
-}
-
 .cursor-pointer {
     cursor: pointer;
 }
@@ -60,7 +56,7 @@
 
 
 .wrapper{
-    min-height: calc(100vh - 59px);
+    min-height: calc(100vh - 399px);
 }
 
 

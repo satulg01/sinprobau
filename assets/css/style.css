@@ -12,8 +12,8 @@ nav ul li a {
 }
 
 .first-ul li a {
-    font-weight: 500;
-    font-size: 18px;
+    /* font-weight: 500; */
+    /* font-size: 18px; */
     color: #fff;
     list-style: none;
 }
@@ -24,8 +24,8 @@ nav ul li a {
 
 .first-ul li {
     padding-top: 10px;
-    font-weight: 500;
-    font-size: 18px;
+    /* font-weight: 500; */
+    /* font-size: 18px; */
     color: #fff;
 }
 
@@ -35,7 +35,7 @@ nav ul li a {
 
 .container-redes {
     display: flex;
-    padding-bottom: 60px;
+    padding-bottom: .7rem;
 }
 
 .container-redes li {
@@ -68,7 +68,7 @@ nav ul li a {
     justify-content: center;
     align-items: center;
     text-align: center;
-    padding-bottom: 33px;
+    padding-bottom: .7rem;
 }
 
 @media (min-width: 1040px) {
