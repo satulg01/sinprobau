@@ -54,7 +54,7 @@ $route['default_controller'] = 'welcome';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
-$route["/"] = "welcome/home";
-$route["login"] = "welcome/login";
-$route["cursos/(:any)"] = "welcome/cursos/$1";
-$route["videos/(:any)"] = "welcome/videos/$1";
+$route["/"]                 = "welcome/home";
+$route["login"]             = "welcome/login";
+$route["cursos/(:any)"]     = "welcome/cursos/$1";
+$route["videos/(:any)"]     = "welcome/videos/$1";
